@@ -22,7 +22,7 @@ Backend developer proficient in Node.js and Python 🚀. Focuses on building a s
 </div>
 
 # 📊 GitHub Stats:
-<div style="display: flex;">
+<div style="display: flex; align-items: center;">
     <div style="flex: 1;">
         <img src="https://github-readme-stats.vercel.app/api?username=RehanDias&theme=dracula&hide_border=true&include_all_commits=false&count_private=false" alt="GitHub Stats" style="width: 100%;">
     </div>
