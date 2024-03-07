@@ -22,17 +22,18 @@ Backend developer proficient in Node.js and Python 🚀. Focuses on building a s
 </div>
 
 # 📊 GitHub Stats:
-<div style="display: flex; justify-content: space-between;">
-    <div>
-        <img src="https://github-readme-stats.vercel.app/api?username=RehanDias&theme=dracula&hide_border=true&include_all_commits=false&count_private=false" alt="GitHub Stats">
+<div style="display: flex;">
+    <div style="flex: 1;">
+        <img src="https://github-readme-stats.vercel.app/api?username=RehanDias&theme=dracula&hide_border=true&include_all_commits=false&count_private=false" alt="GitHub Stats" style="width: 100%;">
     </div>
-    <div>
-        <img src="https://github-readme-streak-stats.herokuapp.com/?user=RehanDias&theme=dracula&hide_border=true" alt="GitHub Streak Stats">
+    <div style="flex: 1;">
+        <img src="https://github-readme-streak-stats.herokuapp.com/?user=RehanDias&theme=dracula&hide_border=true" alt="GitHub Streak Stats" style="width: 100%;">
     </div>
-    <div>
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RehanDias&theme=dracula&hide_border=true&include_all_commits=false&count_private=false&layout=compact" alt="Top Languages">
+    <div style="flex: 1;">
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RehanDias&theme=dracula&hide_border=true&include_all_commits=false&count_private=false&layout=compact" alt="Top Languages" style="width: 100%;">
     </div>
 </div>
+
 
 ---
 [![](https://visitcount.itsvg.in/api?id=RehanDias&icon=7&color=1)](https://visitcount.itsvg.in)
