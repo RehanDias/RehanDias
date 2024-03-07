@@ -22,15 +22,13 @@ Backend developer proficient in Node.js and Python 🚀. Focuses on building a s
 </div>
 
 # 📊 GitHub Stats:
-<div>
+<div style="white-space: nowrap;">
     <div style="display: inline-block; width: 30%;">
-        <img src="https://github-readme-stats.vercel.app/api?username=RehanDias&theme=dracula&hide_border=true&include_all_commits=false&count_private=false" alt="GitHub Stats" style="width: 30%;">
-    </div>
-    <div style="display: inline-block; width: 30%;">
-        <img src="https://github-readme-streak-stats.herokuapp.com/?user=RehanDias&theme=dracula&hide_border=true" alt="GitHub Streak Stats" style="width: 30%;">
-    </div>
-    <div style="display: inline-block; width: 30%;">
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RehanDias&theme=dracula&hide_border=true&include_all_commits=false&count_private=false&layout=compact" alt="Top Languages" style="width: 30%;">
+        <img src="https://github-readme-stats.vercel.app/api?username=RehanDias&theme=dracula&hide_border=true&include_all_commits=false&count_private=false" alt="GitHub Stats" style="width: 100%;">
+    </div><div style="display: inline-block; width: 30%;">
+        <img src="https://github-readme-streak-stats.herokuapp.com/?user=RehanDias&theme=dracula&hide_border=true" alt="GitHub Streak Stats" style="width: 100%;">
+    </div><div style="display: inline-block; width: 30%;">
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RehanDias&theme=dracula&hide_border=true&include_all_commits=false&count_private=false&layout=compact" alt="Top Languages" style="width: 100%;">
     </div>
 </div>
 
