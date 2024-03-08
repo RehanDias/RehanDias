@@ -22,17 +22,22 @@ Backend developer proficient in Node.js and Python 🚀. Focuses on building a s
 </div>
 
 # 📊 GitHub Stats:
-<div style="display: flex; justify-content: space-between; align-items: center; flex-wrap: nowrap;">
-    <div style="display: inline-block; width: 30%;">
+<div style="display: inline-block; width: 30%; white-space: nowrap;">
+    <div style="display: inline-block; width: 100%;">
         <img src="https://github-readme-stats.vercel.app/api?username=RehanDias&theme=dracula&hide_border=true&include_all_commits=false&count_private=false">
     </div>
-    <div style="display: inline-block; width: 30%;">
+</div>
+<div style="display: inline-block; width: 30%; white-space: nowrap;">
+    <div style="display: inline-block; width: 100%;">
         <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RehanDias&theme=dracula&hide_border=true&include_all_commits=false&count_private=false&layout=compact">
     </div>
-    <div style="display: inline-block; width: 30%;">
+</div>
+<div style="display: inline-block; width: 30%; white-space: nowrap;">
+    <div style="display: inline-block; width: 100%;">
         <img src="https://github-readme-streak-stats.herokuapp.com/?user=RehanDias&theme=dracula&hide_border=true">
     </div>
 </div>
+
 
 ---
 [![](https://visitcount.itsvg.in/api?id=RehanDias&icon=7&color=1)](https://visitcount.itsvg.in)
