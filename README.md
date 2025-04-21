@@ -38,8 +38,7 @@ Backend developer proficient in Node.js and Python 🚀. Focuses on building a s
 
 ---
 ### 👤 Discord
-[![Discord Presence](https://lanyard.cnrad.dev/api/426731900481175553?theme=dark)](https://discord.com/users/426731900481175553)  
-`D I A S | Arcan1ST`
+[![Discord Presence](https://lanyard.cnrad.dev/api/426731900481175553?theme=dark&hideDiscrim=true)](https://discord.com/users/426731900481175553)
 
 
 [![](https://visitcount.itsvg.in/api?id=RehanDias&icon=7&color=1)](https://visitcount.itsvg.in)
