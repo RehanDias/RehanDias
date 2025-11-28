@@ -22,7 +22,6 @@ I'm a Backend Developer with expertise in Node.js and Python, passionate about b
 
 # 📊 GitHub Stats:
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=RehanDias&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
   <img src="https://github-profile-trophy.vercel.app?username=RehanDias&theme=dark&column=-1&row=1&margin-w=8&margin-h=8&no-bg=false&no-frame=false&order=4" height="220" alt="trophy graph"  />
 </div>
 
