@@ -6,7 +6,6 @@
 
 I'm a Backend Developer with expertise in Node.js and Python, passionate about building robust and scalable infrastructure for applications and systems. With experience in modern technologies, I focus on creating reliable and efficient solutions. Always eager to learn new technologies and continuously improve my skills.
 
-![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=RehanDias.RehanDias)
 
 </div>
 
@@ -50,8 +49,11 @@ I'm a Backend Developer with expertise in Node.js and Python, passionate about b
 
 ---
 
+### GitHub Stats
 <div align="center">
-  
-**"Turning ideas into reality, one line of code at a time"**
+
+[![GitHub Streak](https://github-readme-stats-fast.vercel.app/api/streak?username=RehanDias)](https://github.com/RehanDias)
+
+![Top Langs](https://github-readme-stats-fast.vercel.app/api/top-langs/?username=RehanDias&layout=compact)
 
 </div>
