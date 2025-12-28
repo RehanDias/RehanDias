@@ -20,12 +20,15 @@ I'm a Backend Developer with expertise in Node.js and Python, passionate about b
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
 ![React Native](https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
 
-# 📊 GitHub Stats:
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app?username=RehanDias&theme=dark&column=-1&row=1&margin-w=8&margin-h=8&no-bg=false&no-frame=false&order=4" height="220" alt="trophy graph"  />
-</div>
+### 📊 Github Stats
+<a href='https://github.com/rahul-jha98/github-stats-transparent'>
+  
+![Stats Overview](https://raw.githubusercontent.com/RehanDias/github-stats-transparent/output/generated/overview.svg)
+![Most Used Languages](https://raw.githubusercontent.com/RehanDias/github-stats-transparent/output/generated/languages.svg)
 
-<div align="center">
+</a>
+
+<br>
   
   ![](https://visitcount.itsvg.in/api?id=RehanDias&icon=7&color=1)
   
