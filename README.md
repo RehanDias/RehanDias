@@ -1,15 +1,15 @@
 <div align="center">
 
 # Hi there, I'm Rehan Dias Pratama 👋
-
 ### Backend Developer | Node.js & Python Enthusiast
 
 I'm a Backend Developer with expertise in Node.js and Python, passionate about building robust and scalable infrastructure for applications and systems. With experience in modern technologies, I focus on creating reliable and efficient solutions. Always eager to learn new technologies and continuously improve my skills.
 
-
 </div>
 
 ---
+
+<div align="center">
 
 ### Programming Languages
 
@@ -35,6 +35,8 @@ I'm a Backend Developer with expertise in Node.js and Python, passionate about b
 ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 
+</div>
+
 ---
 
 ### Connect With Me
@@ -50,10 +52,21 @@ I'm a Backend Developer with expertise in Node.js and Python, passionate about b
 ---
 
 ### GitHub Stats
+
 <div align="center">
 
-[![GitHub Streak](https://github-readme-stats-fast.vercel.app/api/streak?username=RehanDias)](https://github.com/RehanDias)
+<picture>
+  <source
+    media="(prefers-color-scheme: dark)"
+    srcset="https://github-readme-stats-fast.vercel.app/api/streak?username=RehanDias&theme=dark&hide_border=true"
+  />
+  <source
+    media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+    srcset="https://github-readme-stats-fast.vercel.app/api/streak?username=RehanDias&theme=default&hide_border=true"
+  />
+  <img src="https://github-readme-stats-fast.vercel.app/api/streak?username=RehanDias" />
+</picture>
 
-![Top Langs](https://github-readme-stats-fast.vercel.app/api/top-langs/?username=RehanDias&layout=compact)
+![Top Langs](https://github-readme-stats-fast.vercel.app/api/top-langs/?username=RehanDias&layout=compact&theme=transparent&hide_border=true&hide=jupyter%20notebook,html,css)
 
 </div>
